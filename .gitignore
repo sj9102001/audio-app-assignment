@@ -1,0 +1,39 @@
+audio-app-backend/.env
+audio-app-backend/node_modules
+audio_app_frontend/# Miscellaneous
+audio_app_frontend/*.class
+audio_app_frontend/*.log
+audio_app_frontend/*.pyc
+audio_app_frontend/*.swp
+audio_app_frontend/.DS_Store
+audio_app_frontend/.atom/
+audio_app_frontend/.buildlog/
+audio_app_frontend/.history
+audio_app_frontend/.svn/
+audio_app_frontend/migrate_working_dir/
+audio_app_frontend/# IntelliJ related
+audio_app_frontend/*.iml
+audio_app_frontend/*.ipr
+audio_app_frontend/*.iws
+audio_app_frontend/.idea/
+audio_app_frontend/# The .vscode folder contains launch configuration and tasks you configure in
+audio_app_frontend/# VS Code which you may wish to be included in version control, so this line
+audio_app_frontend/# is commented out by default.
+audio_app_frontend/#.vscode/
+audio_app_frontend/# Flutter/Dart/Pub related
+audio_app_frontend/**/doc/api/
+audio_app_frontend/**/ios/Flutter/.last_build_id
+audio_app_frontend/.dart_tool/
+audio_app_frontend/.flutter-plugins
+audio_app_frontend/.flutter-plugins-dependencies
+audio_app_frontend/.pub-cache/
+audio_app_frontend/.pub/
+audio_app_frontend//build/
+audio_app_frontend/# Symbolication related
+audio_app_frontend/app.*.symbols
+audio_app_frontend/# Obfuscation related
+audio_app_frontend/app.*.map.json
+audio_app_frontend/# Android Studio will place build artifacts here
+audio_app_frontend/android/app/debug
+audio_app_frontend/android/app/profile
+audio_app_frontend/android/app/release
